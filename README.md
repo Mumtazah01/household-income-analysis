@@ -41,8 +41,8 @@ Growth per state uses the average yearly growth rate (CAGR) of mean income from 
 ## Key Findings
 
 1. The mean figure misleads in east Sabah. Kunak has the highest savings rate by mean income (57.7%), yet 29.2% of its households live in poverty. In Kalabakan, mean income is RM5,174 but median income is only RM3,304. A small group of high earners pulls the mean up.
-2. With median income, 10 of 162 districts have a negative balance. The typical household there spends more than it earns. The worst are Bukit Mabong, Sarawak (-29.9%, short by RM774 a month), Pitas, Sabah (-24.7%) and Kota Marudu, Sabah (-20.5%).
-3. The 4 worst districts sit in Sabah and Sarawak. The 6 in Peninsular Malaysia sit closer to zero (-0.7% to -7.1%). These include Tumpat and Jeli in Kelantan.
+2. With median income, 10 of 162 districts have a negative balance. The typical household there spends more than it earns. The lowest are Bukit Mabong, Sarawak (-29.9%, short by RM774 a month), Pitas, Sabah (-24.7%) and Kota Marudu, Sabah (-20.5%).
+3. The 4 lowest districts sit in Sabah and Sarawak. The 6 in Peninsular Malaysia sit closer to zero (-0.7% to -7.1%). These include Tumpat and Jeli in Kelantan.
 4. All 8 districts in Terengganu have a positive balance. 7 sit above the Malaysian median of 17.7%. Setiu ranks highest (29.6%). Marang sits at the median (17.7%) and ranks lowest in Terengganu in both methods. Kuala Terengganu, the state capital, ranks second lowest (20.4%).
 5. Income and inequality show no link (correlation 0.03). Income and poverty move in opposite directions (-0.52). Poverty and the mean savings rate show no link (0.01).
 6. Terengganu grew household income the fastest of all 14 states: 22.5 times, from RM339 in 1976 to RM7,627 in 2024, or 6.7% a year. Terengganu also ranks first from 1970 (7.3% a year).
@@ -63,6 +63,7 @@ Growth per state uses the average yearly growth rate (CAGR) of mean income from 
 - Median income minus mean spending mixes 2 measures. Treat the second savings rate as an estimate.
 - All income figures are nominal. They do not adjust for inflation.
 - District data covers 2 survey years only (2022 and 2024).
+- Spending needs and prices differ between districts. A lower balance points to where households need support. It does not rank the people who live there.
 - Correlation does not prove cause. Terengganu income nearly doubled from 1970 to 1976, the same period the oil and gas industry began in Kerteh. This data does not test this link.
 
 ## Files
@@ -71,3 +72,4 @@ Growth per state uses the average yearly growth rate (CAGR) of mean income from 
 - `carta_pertumbuhan_negeri.png`: income growth by state, 1976 to 2024
 - `carta_terengganu.png`: savings rate of Terengganu districts
 - `carta_10_terendah.png`: 10 districts with the lowest savings rate
+
